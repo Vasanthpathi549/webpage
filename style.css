@@ -1,0 +1,89 @@
+body
+{
+    background-color: bisque;
+}
+ul {
+    padding: 10px;
+   
+}
+ul li
+{
+    display: inline;
+    border-radius: 3px; 
+    background-color: rgb(197, 188, 184);
+    font-family: sans-serif;
+    font-style: bold;
+    font-size: 25px;
+    border-top:1px solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    box-shadow: 2px 2px 2px 2px white;
+}
+li{
+    padding: 3px;
+}
+a{
+   text-decoration: none;
+   color: rgb(2, 3, 3);
+}
+a:hover{
+    color: rgb(70, 46, 204)
+
+}
+body{
+    background-color:rgb(192, 147, 229);
+}
+
+#head 
+{
+    border: 1px solid;
+    width: 55%;
+    height: 55%;
+    margin: 0 auto;
+    box-shadow: 1.5px 1.5px 2px  black;
+    border-radius: 3px;
+}
+#head:hover
+{
+    background-color:crimson;
+}
+#left {
+    float: left;
+    border: 1px solid;
+    width: 20%;
+    height: 20%;
+    background-color: antiquewhite;
+    border-radius: 5px ;
+    box-shadow: 1.5px 1.5px 2px  black;
+
+
+}
+#right {
+    float: right;
+    border: 1px solid;
+    width: 20%;
+    height: 20%;
+    background-color: antiquewhite;
+    border-radius: 5px ;
+    box-shadow: 1.5px 1.5px 2px  black;
+
+
+}
+#left h2 {
+    text-align: center;
+    font-family: sans-serif;
+
+}
+#right h2 {
+    text-align: center;
+    font-family: sans-serif;
+
+}
+#left h2:hover {
+    color: red;
+}
+#right h2:hover{
+    color: red;
+}
+
